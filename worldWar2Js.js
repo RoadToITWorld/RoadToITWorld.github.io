@@ -29,8 +29,8 @@ storyList.addEventListener("click", function(e) {
       storyImage.innerHTML = '<img src="annaFrank.jpg" alt="Story 2 Image">';
       break;
     case "story-3":
-      storyText.innerHTML = "Story 3 text goes here";
-      storyImage.innerHTML = '<img src="womenMovement.jpg" alt="Story 3 Image">';
+      storyText.innerHTML = "Pick a card, any card. The card you pick might just save everyone\’s life. Sound strange? Well, this is a story on how packs of playing cards saved the lives of Allied WW2 soldiers too! Bicycle cards have been around for over 130 years. It\’s a beloved tool of entertainment and tool for gamblers, magicians, seniors and college students the world over. But something new came out only in recent years. Bicycle cards were a tool to help rescue POWs from Nazi Camps. Allied solders who were captured in prison camps were deep in enemy territory and of course far from home. But thanks to international agreements, POWs still received their Red Cross care packages, which almost always included packs of cards to pass the time. The Bicycle card company noticed that and approached the British and American Intelligence agencies with an interesting idea. Taking advantage of the upcoming Red Cross Christmas care package to come, they created a very special pack and had them delivered in those packages. As for what made them special? If you got the cards wet, they fell apart and revealed part of a larger MAP complete with escape routes. If you put the cards in the right order, you had a complete map of the surrounding country. With that as a tool, 32 POWs managed to escape Nazi Germany. Another 316 escape attempts were made. There\’s presently 2 packs known left to exist, one in private hands and another in the International Spy Museum. And in 2016, Bicycle created a special edition recreation of those cards in honor of the unique collaboration. Isn't that absolutely brilliant?";
+      storyImage.innerHTML = '<img src="playingCards.jpg" alt="Story 3 Image">';
       break;
   }
   
