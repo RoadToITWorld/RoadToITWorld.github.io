@@ -95,3 +95,10 @@
     display: block;
     margin: 0 auto;
   }
+
+  #copyright {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+    padding: 10px;
+  }
